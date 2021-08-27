@@ -1,3 +1,4 @@
+# Creates Email id for the employees of the Company
 import java.security.SecureRandom;
 import java.util.Scanner;
 
