@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AdventureGame",
+            "request": "launch",
+            "mainClass": "AdventureGame",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TicTacToeGame",
+            "request": "launch",
+            "mainClass": "TicTacToeGame",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch RPS",
+            "request": "launch",
+            "mainClass": "RPS",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmailApp",
+            "request": "launch",
+            "mainClass": "EmailApp",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankingApplication",
+            "request": "launch",
+            "mainClass": "BankingApplication",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankingApplicationCL",
+            "request": "launch",
+            "mainClass": "BankingApplicationCL",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MortgageCalculator",
+            "request": "launch",
+            "mainClass": "MortgageCalculator",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessingTheNumber",
+            "request": "launch",
+            "mainClass": "GuessingTheNumber",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Firstprogram",
+            "request": "launch",
+            "mainClass": "Firstprogram",
+            "projectName": "JAVA PROGRAMS_572a005f"
+        }
+    ]
+}
